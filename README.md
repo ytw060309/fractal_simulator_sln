@@ -5,4 +5,4 @@
 작성자 : 유태우     
 학번 : 30313      
 
-<a href="https://drive.google.com/uc?export=download&id=16krmGbqG_z2GMd14Zw-v5uy4IpcgAwBo">솔루션 다운로드</a>
+<a href="https://drive.google.com/file/d/16krmGbqG_z2GMd14Zw-v5uy4IpcgAwBo/view?usp=sharing">솔루션 다운로드</a>
