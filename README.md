@@ -5,4 +5,4 @@
 작성자 : 유태우     
 학번 : 30313      
 
-<a href="">솔루션 다운로드</a>
+<a href="Fractal Simulator.zip" download>솔루션 다운로드</a>
